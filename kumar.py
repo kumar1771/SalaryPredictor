@@ -46,3 +46,5 @@ print("R² Score:", r2_score(y_test, y_pred))
 new_data=pd.DataFrame({'age':[28],'gender_Male':[1],'gender_other':[0]})
 predected_salary=model.predict(new_data)
 print(predected_salary)
+
+print("Amburu pavan kumar")
